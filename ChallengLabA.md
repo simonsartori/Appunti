@@ -1,7 +1,7 @@
 ### setting directories
-$ sudo mkdir /directory1
-$ sudo mkdir /directory2
-$ sudo mkdir /directory3
+$ sudo mkdir /Engeniring
+$ sudo mkdir /Sales
+$ sudo mkdir /IS
 
 ### setting groups
 $ sudo groupadd dipartimento1
@@ -9,7 +9,7 @@ $ sudo groupadd dipartimento2
 $ sudo groupadd dipartimento3
 
 ### adding admin of department
-$ sudo ureradd admin_dipartimento1
+$ sudo useradd admin_dipartimento1
 $ sudo ureradd admin_dipartimento2
 $ sudo ureradd admin_dipartimento3
 
@@ -24,9 +24,9 @@ $ sudo usermod -aG sudo admin_dipartimentoB
 $ sudo usermod -aG sudo admin_dipartimentoC
 
 ### setting employers
-$ sudo useradd employerA
-$ sudo useradd employerB
+$ sudo useradd Marino
+$ sudo useradd Simon
 
 ### setting passowrd of emplyers
-$ sudo passwd employerA
-$ sudo passwd employerB
+$ sudo passwd Martino
+$ sudo passwd Simon
