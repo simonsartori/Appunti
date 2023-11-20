@@ -1,29 +1,5 @@
 
 LINUX
-Linux è stato scritto da più di 10000 utenti lungo circa 20 milioni righe di codici
-
-66% of the world server 100% of top 50 supercomputer
-
-The Linux file system used to resemble an unorganised town where individuals construct their houses
-
-wherever they pleased. However, in 1994, the Filesystem Hierarchy Standard (FHS) was introduced to bring
-
-order to the Linux file system.
-
-By implementing a standard like the FHS, software can ensure a consistent layout across various Linux
-
-distributions. Nonetheless, not all Linux distributions strictly adhere to this standard. They often incorporate
-
-their own unique elements or cater to specific requirements.
-
-To become proficient in this standard, you can begin by exploring. Utilise commands such as "cd" for
-
-navigation and "ls" for listing directory contents. Imagine the file system as a tree, starting from the root (/).
-
-With time, it will become second nature to you, transforming you into a skilled Linux administrator.
-
-Some fundamental things to know
-Kernel --> brain of the Linux operating system controls the Hardware and make interract whit applications.
 
 Distribution --> collection of programs combined whit the kernel to make a Linux based operating system.
 
